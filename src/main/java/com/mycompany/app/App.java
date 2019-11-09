@@ -15,6 +15,9 @@ public class App
     }
 
     private final String getMessage() {
+        /*
+        * test
+        * */
         return message;
     }
 
